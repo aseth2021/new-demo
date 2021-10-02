@@ -1,4 +1,5 @@
 error.log
 *.log
 dir/
-
+a.txt
+dire/*.txt
